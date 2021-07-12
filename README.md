@@ -7,3 +7,6 @@ This repository contains the C code for a basic contact management system applic
 3. Search for an existing contact
 4. Edit an existing contact by searching for the phone number
 5. Delete a contact by searching for the phone number.
+
+## To Do
+- More detailed comments
