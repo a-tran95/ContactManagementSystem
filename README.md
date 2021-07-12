@@ -1,4 +1,4 @@
-# C Contact Management System
+# C Contact Management System (1.0)
 This repository contains the C code for a basic contact management system application. It also includes the dummy-data that was used to test the code, which was generated from Mockaroo.
 
 ## Features
